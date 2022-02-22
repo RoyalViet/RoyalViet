@@ -1,4 +1,18 @@
-<!-- Trungquandev -->
+<!-- Music -->
+<table width="100%"> 
+  <tr>
+  <td width="25%">
+  </td>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://VietMeo99.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rlxj5xhfp6mixwnvxotzwatd2m)
+
+  </td> 
+  <td width="25%"> 
+  </td>
+</table>
+
+<!-- Vdev -->
 <a href="#" target="_blank">
   <img src="svg/vdev.svg" width="1200" alt="Click to see the source" />
 </a>
