@@ -71,13 +71,13 @@
   <!-- <a href="https://VietMeo99.com" target="blank">
     <img width="90" height="90" src="images/logo-vdev-transparent-bg-192x192.png" alt="VietMeo99-blog" />
   </a> -->
-  <a href="https://facebook.com/VIETDEV99" target="blank">
+  <a href="https://facebook.com/VIETDEV99" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VietMeo99-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/vietdev/" target="blank">
+  <a href="https://www.linkedin.com/in/vietdev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VietMeo99-linkedin" /> 
   </a>
-  <a href="https://instagram.com/vuh_viet" target="blank">
+  <a href="https://instagram.com/vuh_viet" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VietMeo99-instagram" />
   </a>
   <a href="mailto:vuhoangviet160799@gmail.com" target="top">
