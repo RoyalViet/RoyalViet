@@ -1,15 +1,10 @@
 <!-- Music -->
 <table width="100%"> 
-  <tr>
-  <td width="25%">
-  </td>
+  <tr>   
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://VietMeo99.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rlxj5xhfp6mixwnvxotzwatd2m)
+&nbsp; <br> [![Spotify](https://viet-meo-99-47qf224rk-vietmeo99.vercel.app.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rlxj5xhfp6mixwnvxotzwatd2m)
 
-  </td> 
-  <td width="25%"> 
-  </td>
 </table>
 
 <!-- Vdev -->
