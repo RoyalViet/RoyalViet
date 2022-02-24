@@ -1,11 +1,16 @@
 <!-- Music -->
 <table width="100%"> 
-  <tr>   
-  <td width="50%">
+  <tr style="" align="center">    
+  <td width="30%" align="center" style="margin: 0px 50px 0 0">
+    <span>Spotify</span><br/>
+    <img src="images/giphy.gif" width="70px" alt="music for life" border="2px" style="border-radius:50%"/>
+  </td>    
+  <td width="70%">
 
 &nbsp; <br> [![Spotify](https://viet-meo-99.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rlxj5xhfp6mixwnvxotzwatd2m)
 
   </td>
+  </tr>
 
 </table>
 
@@ -61,7 +66,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span align="center">...</span>
+<span %="center">...</span>
 
 <!-- <br> -->
 
