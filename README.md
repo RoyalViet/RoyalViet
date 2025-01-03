@@ -7,7 +7,7 @@
   </td>    
   <td width="70%">
 
-&nbsp; <br> [![Spotify](https://viet-meo-99.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rlxj5xhfp6mixwnvxotzwatd2m)
+&nbsp; <br> [![Spotify](https://royal.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rlxj5xhfp6mixwnvxotzwatd2m)
 
   </td>
   </tr>
